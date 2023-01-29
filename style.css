@@ -172,3 +172,59 @@ font-size: 30px;
 
     background-image: url("./images/shape/Group_33094_1.png");
 }
+.main-services{
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.services{
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    width: 400px;
+    height: 500px;
+    position: relative;
+    margin: 4px;
+
+}
+
+.services h4 {
+    color: red;
+}
+
+.pictiure-services .img1{
+
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    top: -20px;
+
+}
+
+.main h1{
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.services img{
+
+    border-radius: 10px;
+    height: 300px;
+    
+}
+
+.price {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
