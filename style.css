@@ -38,6 +38,79 @@ align-items: center;
     color: wheat;
 }
 .banner-description{
-    left: 5px;
+margin-left: 50px;
 
+}
+
+.banner-description h1{
+    font-size: 30px;
+   color: brown;
+
+        }
+
+
+.BTN{
+    padding: 15px 30px;
+    background-color: rgb(244, 0, 45);
+    margin: 10px;
+
+
+}
+
+.banner-description p{
+
+font-size: 30px;
+
+    
+    }
+
+
+.banner-text{
+
+    color: red;
+    font-size:200px;
+
+}
+
+.card1{
+    width: 300px;
+    height: 200px;
+    border: 1px solid gray;
+    text-align: center;
+    box-shadow: 8px 8px 16px gray;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 40px;
+    transition:.8ms;
+    justify-content: space-between;
+}
+
+.card1:hover {
+    border: 1px solid rgb(244, 0, 45);
+    margin-top: -20px;
+    transition: .8ms;
+}
+
+
+.section{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section-two h1{
+     display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 40px;
+
+}
+
+
+.icon{
+    width: 57px;
+    justify-content: center;
+
+    align-items: center;
 }
