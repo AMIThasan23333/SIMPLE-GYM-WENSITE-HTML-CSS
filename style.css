@@ -1,0 +1,28 @@
+*{
+
+    padding: 0;
+    margin: 0;
+}
+
+
+.menu-coontainer{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:black;
+    padding: 5px;
+    color: white;
+
+}
+
+.menu-item{
+    display: flex;
+}
+
+.menu-item li{
+
+    list-style: none;
+    margin: 5px;
+    padding: 5px;
+    font-size: 18px;
+    
+}
